@@ -1,6 +1,6 @@
 # Awakened PoE Trade + Inscribed Ultimatum price check
 
-Unofficial build of [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) with the Inscribed Ultimatum reward-value estimate from [SnosMe/awakened-poe-trade#1923](https://github.com/SnosMe/awakened-poe-trade/issues/1923) (by tbiering) added on top of the latest official release.
+Unofficial build of [Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade) with an Inscribed Ultimatum reward-value estimate added on top of the latest official release.
 
 ## Install
 
